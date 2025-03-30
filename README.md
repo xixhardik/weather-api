@@ -18,3 +18,18 @@ Frontend: HTML, Tailwind CSS
 Backend: JavaScript (Fetch API)
 
 API: OpenWeather API
+📦 Installation & Setup:
+Clone the repository:
+
+bash
+Copy
+Edit
+git clone https://github.com/your-username/weather-api.git
+cd weather-api
+Create a .env file and add your OpenWeather API key:
+
+bash
+Copy
+Edit
+API_KEY=your_openweather_api_key
+Open index.html in your browser and start checking the weather! 🌍
